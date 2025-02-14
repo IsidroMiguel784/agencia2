@@ -1,6 +1,6 @@
 import {Viaje} from "../models/Viaje.js";
 import {Testimonial} from "../models/Testimoniales.js";
-import {Cliente} from "../models/cliente.js";
+
 import moment from 'moment';
 
 const paginaInicio = async (req, res) => {
